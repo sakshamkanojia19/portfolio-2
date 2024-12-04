@@ -44,6 +44,7 @@ export const PROJECTS = [
     description:
       "Launched a personal portfolio website to showcase design projects, increasing client and employer engagement by 40%. Enhanced performance by 30% using Vite for faster builds and optimized delivery.",
     technologies: ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "Vite","Framer motion"],
+    link:"https://portfolio-2-sk.vercel.app/"
   },
   {
     title: "Modern Real Estate Website",
