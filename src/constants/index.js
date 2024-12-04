@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.webp";
 import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
-import project4 from "../assets/projects/project-4.webp";
+
 
 export const HERO_CONTENT = `I am a passionate full-stack developer with expertise in React.js, Material-UI, Node.js, Express.js, and MongoDB. I specialize in creating efficient, user-friendly web applications and have a strong interest in blockchain and cybersecurity. My goal is to build secure, innovative systems while contributing to impactful projects, continuously learning, and delivering high-quality solutions that meet both user and business needs.`
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
