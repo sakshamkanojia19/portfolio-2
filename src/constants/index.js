@@ -57,7 +57,7 @@ export const PROJECTS = [
       "JavaScript",
       "React.js",
       "Node.js",
-      "SQL",
+      
       "MongoDB",
       "Prisma",
       "Mantine UI",
