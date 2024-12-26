@@ -8,6 +8,12 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
+    year: "Dec 2024 - Pursuing",
+    role: "Web Developer Internship",
+    company: "Oasis Infobyte",
+    description: `Developing Projects using MERN Stack.`,
+    technologies: ["MERN","React","JavaScript","Wep API","Restful API","MongoDB","Node.js","Express.js","Tailwind Css"],
+  },{
     year: "Jan 2024 - Feb 2024",
     role: "Generative AI & Data Science Trainee",
     company: "IBM SkillBuild",
@@ -57,7 +63,7 @@ export const PROJECTS = [
       "JavaScript",
       "React.js",
       "Node.js",
-      
+      "Selenium",
       "MongoDB",
       "Prisma",
       "Mantine UI",
