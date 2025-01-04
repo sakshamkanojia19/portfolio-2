@@ -1,7 +1,7 @@
 import React from 'react'
 import { CONTACT } from '../constants'
 import {motion} from 'framer-motion'
-
+import { FaGithub, FaLinkedin } from 'react-icons/fa'
 // framer preset
 
 
