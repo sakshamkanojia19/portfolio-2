@@ -28,6 +28,21 @@ const Contact = () => {
             {CONTACT.email}
         </a>
       </div>
+      <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
+
+     <a href="https://www.linkedin.com/in/saksham-kanojia-7895b7217/"
+     target='_blank' rel='noopener noreferrer'
+     aria-label="LinkedIn">
+        <FaLinkedin/>
+     </a>
+
+     <a href="https://github.com/sakshamkanojia19"
+     target='_blank' rel='noopener noreferrer'
+     aria-label="GitHub">
+        <FaGithub/>
+     </a>
+
+  </div>
     </div>
   )
 }
