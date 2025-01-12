@@ -155,7 +155,7 @@ const Contact = () => {
             className="mb-8 w-full appearance-none rounded-lg border border-gray-900 bg-transparent px-3 py-2 text-sm focus:border-gray-400 focus:outline-none"
           />
           {errors.email && (
-            <p className="text-sm text-pink-700">{errors.email}</p>
+            <p className="text-sm text-blue-700">{errors.email}</p>
           )}
         </div>
 
@@ -171,14 +171,14 @@ const Contact = () => {
             rows="4"
           />
           {errors.message && (
-            <p className="text-sm text-pink-700">{errors.message}</p>
+            <p className="text-sm text-blue-700">{errors.message}</p>
           )}
         </div>
 
         {/* Submit Button */}
         <button
           type="submit"
-          className={`mb-8 w-full rounded bg-purple-700 px-4 py-2 text-sm font-semibold text-slate-950 hover:bg-purple-400 ${
+          className={`mb-8 w-full rounded bg-blue-400 px-4 py-2 text-sm font-semibold text-slate-950 hover:bg-purple-400 ${
             isSending ? "cursor-not-allowed opacity-50" : ""
           }`}
           disabled={isSending}
