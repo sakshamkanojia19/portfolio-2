@@ -178,7 +178,7 @@ const Contact = () => {
         {/* Submit Button */}
         <button
           type="submit"
-          className={`mb-8 w-full rounded bg-blue-600 px-4 py-2 text-sm font-semibold text-slate-950 hover:bg-blue-400 ${
+          className={`mb-8 w-full rounded bg-blue-900 px-4 py-2 text-sm font-semibold text-slate-950 hover:bg-blue-400 ${
             isSending ? "cursor-not-allowed opacity-50" : ""
           }`}
           disabled={isSending}
