@@ -51,13 +51,21 @@ export const PROJECTS = [
     title: "Portfolio Website",
     image: project1,
     description:
+      "Launched a React-based chatbot for data gathering from users, boosting engagement by 40%, Enhanced performance by 30% using Vite for faster builds and optimized delivery, employ automation testing.",
+    technologies: ["HTML, CSS, JavaScript, Typescript, React.js, Node.js, Vite, Selenium. Tailwind, MySQL"],
+    link:"https://rchatbot-frontend.vercel.app/"
+  },
+  {
+    title: "Portfolio Website",
+    image: project2,
+    description:
       "Launched a personal portfolio website to showcase design projects, increasing client and employer engagement by 40%. Enhanced performance by 30% using Vite for faster builds and optimized delivery.",
     technologies: ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "Vite","Framer motion"],
     link:"https://portfolio-2-sk.vercel.app/"
   },
   {
     title: "Modern Real Estate Website",
-    image: project2,
+    image: project3,
     description:
       "Deployed a responsive real estate platform allowing users to search and book properties. Integrated advanced search filters, location services with Leaflet, and user authentication with Auth0, reducing customer search time by 30% and increasing platform feasibility by 45%. Automation testing with Selenium improved fault tolerance by 20%.",
     technologies: [
@@ -76,7 +84,7 @@ export const PROJECTS = [
   },
   {
     title: "Decentralized Cryptocurrency Exchange DApp",
-    image: project3,
+    image: project4,
     description:
       "Developed a decentralized cryptocurrency exchange platform with MetaMask wallet integration, improving user experience and reducing transaction time by 20%. Implemented token slippage functionality, optimizing trade fluctuation management by 15%, and enhanced swapping efficiency by 25% using Agile methodologies.",
     technologies: [
