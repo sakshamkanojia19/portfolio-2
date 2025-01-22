@@ -84,7 +84,7 @@ export const PROJECTS = [
   },
   {
     title: "Decentralized Cryptocurrency Exchange DApp",
-    image: project4,
+    image: project2,
     description:
       "Developed a decentralized cryptocurrency exchange platform with MetaMask wallet integration, improving user experience and reducing transaction time by 20%. Implemented token slippage functionality, optimizing trade fluctuation management by 15%, and enhanced swapping efficiency by 25% using Agile methodologies.",
     technologies: [
