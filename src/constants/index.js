@@ -48,7 +48,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Portfolio Website",
+    title: "React-ChatBot",
     image: project1,
     description:
       "Launched a React-based chatbot for data gathering from users, boosting engagement by 40%, Enhanced performance by 30% using Vite for faster builds and optimized delivery, employ automation testing.",
