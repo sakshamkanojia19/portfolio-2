@@ -3,9 +3,12 @@ import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
 
 
-export const HERO_CONTENT = `I am a passionate full-stack developer and data analyst with expertise in React.js, Next.js, React Native, Material-UI, Tailwind CSS, Node.js, Express.js, MongoDB, Excel, Power BI, and Python. I specialize in developing efficient, user-centric web applications and delivering actionable data insights.
+export const HERO_CONTENT = `I am proficient in Full-Stack Development | Automation Testing | Data Analysis.
 
-With a strong interest in blockchain and cybersecurity, I am dedicated to building secure, innovative systems that address modern challenges. My goal is to contribute to impactful projects, continuously expand my knowledge, and deliver high-quality solutions that align with user needs and business objectives.`
+Full-Stack Development: Expertise in React.js, Next.js, React Native, Node.js, Express.js, MongoDB, and modern UI frameworks like Material-UI and Tailwind CSS, focused on delivering user-centric, secure, and scalable web applications.
+Automation Testing: Skilled in Selenium and Jest, ensuring bug-free deployments through robust testing frameworks and seamless workflows.
+Data Analysis: Proficient in Excel, Power BI, and Python, providing actionable insights and supporting data-driven decision-making.
+With a strong interest in blockchain and cybersecurity, I am dedicated to contributing to innovative and impactful projects, ensuring quality development, and addressing modern challenges with efficient solutions.`
 export const EXPERIENCES = [
   {
     year: "Dec 2024 - Pursuing",
