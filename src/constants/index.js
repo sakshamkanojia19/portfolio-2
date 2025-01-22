@@ -52,7 +52,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "Launched a React-based chatbot for data gathering from users, boosting engagement by 40%, Enhanced performance by 30% using Vite for faster builds and optimized delivery, employ automation testing.",
-    technologies: ["HTML, CSS, JavaScript, Typescript, React.js, Node.js, Vite, Selenium. Tailwind, MySQL"],
+    technologies: ["HTML", "CSS", "JavaScript", "Typescript"," React.js"," Node.js", "Vite", "Selenium", "Tailwind", "MySQL"],
     link:"https://rchatbot-frontend.vercel.app/"
   },
   {
