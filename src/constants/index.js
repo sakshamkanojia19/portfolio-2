@@ -11,7 +11,7 @@ Data Analysis: Proficient in Excel, Power BI, and Python, providing actionable i
 With a strong interest in blockchain and cybersecurity, I am dedicated to contributing to innovative and impactful projects, ensuring quality development, and addressing modern challenges with efficient solutions.`
 export const EXPERIENCES = [
   {
-    year: "Dec 2024 - Pursuing",
+    year: "Dec 2024 - Jan 2025",
     role: "Web Developer Internship",
     company: "Oasis Infobyte",
     description: `Developing Projects using MERN Stack.`,
