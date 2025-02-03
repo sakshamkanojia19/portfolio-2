@@ -48,12 +48,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "React-ChatBot",
+    title: "AI-ChatBot",
     image: project1,
     description:
-      "Launched a React-based chatbot for data gathering from users, boosting engagement by 40%, Enhanced performance by 30% using Vite for faster builds and optimized delivery, employ automation testing.",
-    technologies: ["HTML", "CSS", "JavaScript", "Typescript"," React.js"," Node.js", "Vite", "Selenium", "Tailwind", "MySQL"],
-    link:"https://rchatbot-frontend.vercel.app/"
+      "Launched a Next.js-based AI chatbot SaaS platform for seamless user site integration, increasing engagement by 40%. Optimized performance by 30% through faster builds, efficient delivery, and automated testing.",
+    technologies:["HTML","CSS","Javascript","TypeScript","Next.js","ShadCN","API","Gemini AI","AI","Framer Motion"],
+      link:"https://botic-ai-chatbot.vercel.app/"
   },
   {
     title: "Portfolio Website",
