@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     role: "Web Developer Internship",
     company: "Oasis Infobyte",
     description: `Developing Projects using MERN Stack.`,
-    technologies: ["MERN","React","JavaScript","Wep API","Restful API","MongoDB","Node.js","Express.js","Tailwind Css"],
+    technologies: ["MERN","React","JavaScript","Web API","Restful API","MongoDB","Node.js","Express.js","Tailwind Css"],
   },{
     year: "Jan 2024 - Feb 2024",
     role: "Generative AI & Data Science Trainee",
