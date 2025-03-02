@@ -5,7 +5,7 @@ import project3 from "../assets/projects/project-3.webp";
 
 export const HERO_CONTENT = `Full-Stack Developer | Automation Tester | Data Analyst
 
-I specialize in building scalable, user-centric applications using React.js, Next.js, Node.js, Express.js, and MongoDB, with expertise in modern UI frameworks like Material-UI and Tailwind CSS. My automation testing skills in Selenium and Jest ensure bug-free deployments, while my data analysis proficiency in Excel, Power BI, and Python drives data-driven decision-making. Passionate about blockchain and cybersecurity, I thrive on solving complex challenges and delivering high-quality, impactful solutions.`
+   I specialize in building scalable, user-centric applications using React.js, Next.js, Node.js, Express.js, and MongoDB, with expertise in modern UI frameworks like Material-UI and Tailwind CSS. My automation testing skills in Selenium and Jest ensure bug-free deployments, while my data analysis proficiency in Excel, Power BI, and Python drives data-driven decision-making. Passionate about blockchain and cybersecurity, I thrive on solving complex challenges and delivering high-quality, impactful solutions.`
 export const EXPERIENCES = [
   {
     year: "Dec 2024 - Jan 2025",
