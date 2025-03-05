@@ -18,7 +18,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Dec 2024 - Jan 2025",
-    role: "Web Developer Internship",
+    role: "Web Developer Intern",
     company: "Oasis Infobyte",
     description: ` Built MERN stack projects following SDLC, increasing efficiency by 35%.
  Optimized CI/CD workflows, reducing project deployment time by 20%.`,
