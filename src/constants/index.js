@@ -8,11 +8,21 @@ export const HERO_CONTENT = `
    I specialize in building scalable, user-centric applications using React.js, Next.js, Node.js, Express.js, and MongoDB, with expertise in modern UI frameworks like Material-UI and Tailwind CSS. My automation testing skills in Selenium and Jest ensure bug-free deployments, while my data analysis proficiency in Excel, Power BI, and Python drives data-driven decision-making. Passionate about blockchain and cybersecurity, I thrive on solving complex challenges and delivering high-quality, impactful solutions.`
 export const EXPERIENCES = [
   {
+    year: "Jan 2025 - Present",
+    role: "Full Stack Developer Intern",
+    company: "Unified Mentor",
+    description: `Design and deploy AWS microservices (EC2), integrated Auth, and improved backend response by 20%.
+ Improved project delivery efficiency by 30% through teamwork and agile development.
+ Containerized microservices using Docker, improving deployment efficiency by 30%.`,
+    technologies: ["MERN","React","MongoDB","Node.js","Express.js","React native","Socket.io","recharts"],
+  },
+  {
     year: "Dec 2024 - Jan 2025",
     role: "Web Developer Internship",
     company: "Oasis Infobyte",
-    description: `Developing Projects using MERN Stack.`,
-    technologies: ["MERN","React","JavaScript","Web API","Restful API","MongoDB","Node.js","Express.js","Tailwind Css"],
+    description: ` Built MERN stack projects following SDLC, increasing efficiency by 35%.
+ Optimized CI/CD workflows, reducing project deployment time by 20%.`,
+    technologies: ["MERN","React","JavaScript","Restful API","MongoDB","Node.js","Express.js","Tailwind Css","CI/CD"],
   },{
     year: "Jan 2024 - Feb 2024",
     role: "Generative AI & Data Science Trainee",
